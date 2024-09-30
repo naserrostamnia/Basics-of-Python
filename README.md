@@ -4,3 +4,4 @@ Welcome to the Basics of Python repository! This collection of Jupyter notebooks
 Topics Covered:
 - String Exploration
 - lists
+- Sets
