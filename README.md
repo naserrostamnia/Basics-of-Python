@@ -6,4 +6,5 @@ Topics Covered:
 - String Exploration
 - Lists
 - Sets
+- Conditions (if-statements)
 - Function
